@@ -1,0 +1,25 @@
+html {
+  background-image: url("img/annie-spratt-xTaOPMa6wAE-unsplash.jpg");
+  background-size: cover;
+}
+
+body {
+  background-color: bisque;
+  width: 500px;
+  margin: 50px auto;
+  padding: 105px;
+  border-radius: 30px;
+}
+
+h1,
+h2 {
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+h1 {
+  text-align: center;
+  text-decoration: underline;
+}
+
+.Maroon {
+  color: maroon;
+}
